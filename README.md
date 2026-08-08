@@ -1,9 +1,9 @@
-# ML-Project
+# MAD-Project
 
 My first repository to learn Git and GitHub 🚀
 
 ## About Me
-CS student exploring **Machine Learning**, **Data Science**, and **Web Development**.
+CS student exploring ** MOBILE APPLICATION **Machine Learning**, **Data Science**, and **Web Development** 
 
 ## What I'm Learning
 - Machine Learning fundamentals
