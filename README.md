@@ -1,16 +1,27 @@
-# MAD-Project
+# 🍽️ Restaurant Management System App
 
-My first repository to learn Git and GitHub 🚀
+## 📌 Overview
+A Mobile Application built for managing restaurant operations efficiently, developed as part of my Mobile Application Development (MAD) coursework.
 
-## About Me
-CS student exploring ** MOBILE APPLICATION **Machine Learning**, **Data Science**, and **Web Development** 
+## 🎯 Objective
+To design and develop a user-friendly mobile application that helps manage restaurant operations such as orders, menu management, and overall workflow.
 
-## What I'm Learning
-- Machine Learning fundamentals
-- Data Science & analysis
-- Web Development
+## 🛠️ Tech Stack
+- **Language:** Dart
+- **Framework:** Flutter
+- **IDE:** Android Studio
 
-## Goals
-Using this repository to practice Git, GitHub, and build my project portfolio.
+## ✨ Features
+- Restaurant menu management
+- Order handling and tracking
+- User-friendly mobile interface
+- Built using Flutter widgets for smooth UI/UX
+
+## 📄 Documentation
+Full project details are available in the attached file.
+
+## 👩‍💻 Author
+**Areeba Riaz** — BS Computer Science, University of Agriculture, Faisalabad  
+Research Interest: Machine Learning & Data Science | Also skilled in Mobile App Development
 
 
